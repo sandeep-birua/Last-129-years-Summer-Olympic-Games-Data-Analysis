@@ -1,4 +1,4 @@
-# Last-129-years-Summer-Olympic-Games-Data-Analysis
+# Last-120-years-Summer-Olympic-Games-Data-Analysis
 This project performs a comprehensive Exploratory Data Analysis (EDA) on historical Olympic records from 1896 to 2025. Using Python and interactive visualizations, it uncovers long-term trends in athlete demographics, gender representation, and national dominance across the Summer and Winter Games.
 
 # Key Areas of Analysis
@@ -17,3 +17,5 @@ Languages: Python (Pandas, NumPy)
 Visualization: Matplotlib, Seaborn, or Plotly for interactive dashboards.
 
 Dataset Source: Often sourced from Kaggle (historically the 120-year dataset, now updated through recent games).
+
+Download the dataset from [here](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
